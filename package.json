@@ -4,6 +4,7 @@
   "description": "Swiftly navigate to the midpoint of any line in VSCode, enhancing your coding efficiency with a single leap.",
   "version": "0.0.1",
   "publisher": "YusukeTakeuchi",
+  "repository": "https://github.com/YusukeTakeuchi/midlinejump",
   "engines": {
     "vscode": "^1.87.0"
   },

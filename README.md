@@ -39,4 +39,4 @@ For example, the following settings assign the Halfway to Start function to `Ctr
 
 ## License
 
-This project is published under the [MIT License](LICENSE).
+This project is published under the MIT License.
