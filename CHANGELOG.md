@@ -4,6 +4,13 @@ All notable changes to the "midlinejump" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.2] - 2024-03-11
 
-- Initial release
+### Fixed
+
+- Work correctly when a selection range is present
+
+
+## [0.0.1] - 2024-03-11
+
+Initial release
