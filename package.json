@@ -2,7 +2,7 @@
   "name": "midlinejump",
   "displayName": "MidLineJump",
   "description": "Swiftly navigate to the midpoint of any line in VSCode, enhancing your coding efficiency with a single leap.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "YusukeTakeuchi",
   "repository": "https://github.com/YusukeTakeuchi/midlinejump",
   "engines": {
@@ -23,6 +23,14 @@
       {
         "command": "midlinejump.navigateToHalfwayEnd",
         "title": "MidLineJump: Navigate to Halfway End"
+      },
+      {
+        "command": "midlinejump.navigateToBisectStart",
+        "title": "MidLineJump: Navigate to Bisect Start"
+      },
+      {
+        "command": "midlinejump.navigateToBisectEnd",
+        "title": "MidLineJump: Navigate to Bisect End"
       }
     ]
   },

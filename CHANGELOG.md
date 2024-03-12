@@ -4,6 +4,12 @@ All notable changes to the "midlinejump" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.3] - 2024-03-12
+
+###  Added
+
+- Add `Bisect` mode commands
+
 ## [0.0.2] - 2024-03-11
 
 ### Fixed

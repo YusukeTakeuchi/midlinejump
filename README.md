@@ -37,6 +37,10 @@ For example, the following settings assign the Halfway to Start function to `Ctr
 ]
 ```
 
+## Bisect mode
+Instead of using `midlinejump.navigateToHalfwayStart` and `midlinejump.navigateToHalfwayEnd`, you can use the commands `midlinejump.navigateToBisectStart` and `midlinejump.navigateToBisectEnd`.
+These commands will move the cursor to the midpoint between the previous starting point and the current position when moving in the direction where the previous starting point is located, instead of moving to the beginning or end of the line.
+
 ## License
 
 This project is published under the MIT License.
